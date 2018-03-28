@@ -1,4 +1,5 @@
 # Your TextAnalyzer model code will go here.
+# takes in a string text, converts it to lowercase, and saves it to an instance variable @text
 class TextAnalyzer
   attr_reader :text
 
